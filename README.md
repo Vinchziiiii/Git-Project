@@ -1,1 +1,1 @@
-# Git-Project
+# Program, showing Exchange Rates
